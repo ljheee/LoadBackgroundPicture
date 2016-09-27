@@ -16,6 +16,8 @@ import javax.swing.JPasswordField;
 
 
 public class MyJFrame extends JFrame{
+	private static final long serialVersionUID = -2538588558556565687L;
+
 	public MyJFrame(){
 		super("QQ1.0");
 		ImageIcon dlGUI=new ImageIcon("src/Icons/dl.png");    //ÒªÏÔÊ¾µÄ  ±³¾°Í¼²ã
